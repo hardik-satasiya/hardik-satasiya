@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hardik Satasiya
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=hardik-satasiya)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **hardik-satasiya/hardik-satasiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
